@@ -1,0 +1,5 @@
+<!-- notification_push -->
+<resources>
+    <color name="white">#FFF</color>
+    <color name="background">#000C30</color>
+</resources>
